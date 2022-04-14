@@ -1,0 +1,12 @@
+django 
+make a project (project ko banana
+1 step: django-admin startproject (name)
+
+migrate (admin\super user create krna )
+2 step: python manage.py migrate
+
+runserver (server ko run krna ) every changes uses this command
+3 step: python manage.py runserver
+
+create a super user (admin login)
+4step: python manage.py createsuperuser

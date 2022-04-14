@@ -1,5 +1,0 @@
-all html file are save in templates folder
-
-
-Websites generally need to serve additional files such as 
-images, JavaScript, or CSS . file save in static folder 
